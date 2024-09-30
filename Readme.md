@@ -55,5 +55,3 @@ For additional details about this project, check out the GitHub page:
 ---
 
 **❤️ Thank you for using my tool! I love you all!**  
-
-Feel free to tweak any part to better suit your style!
