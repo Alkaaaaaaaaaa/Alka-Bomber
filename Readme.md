@@ -47,6 +47,7 @@ pip3 install -r requirements.txt
 python3 Alka-Bomber.py
 ```
 If the installations don't work on Linux, use this 🪄:
+Or launch it manually.
 ```
 sudo apt update
 sudo apt install python python-pip git -y
