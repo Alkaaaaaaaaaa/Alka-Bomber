@@ -4,6 +4,8 @@
 **[Alkaaaaaaaaaa](https://github.com/Alkaaaaaaaaaa)**  
 **🏆 THE ULTIMATE EMAIL BOMBER! 🏆**
 
+# **🔧 ! INSTALL PYTHON TO USE THIS SCRIPT ! 🔧**
+# **[Python-Download](https://www.python.org/downloads/)**
 ---
 
 ## **How to Use on Windows**
@@ -43,6 +45,15 @@ git clone https://github.com/Alkaaaaaaaaaa/Alka-Bomber.git
 cd Alka-Bomber@1.6/
 pip3 install -r requirements.txt
 python3 Alka-Bomber.py
+```
+If the installations dont work on Linux use this 🪄:
+```
+sudo apt update
+sudo apt install python python-pip git -y
+git clone https://github.com/Alkaaaaaaaaaa/Alka-Bomber.git
+cd Alka-Bomber@1.6/
+pip install -r requirements.txt
+python Alka-Bomber.py
 ```
 
 ---
