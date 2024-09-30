@@ -1,24 +1,57 @@
-BY ALKA
-Github : https://github.com/Alkaaaaaaaaaa
-BEST EMAIL BOMBER EVER !
-------------------------
-How to use on windows ?
-First if u are on windows select Install-Win.bat !
-When AlkaBomber is installed select Launch-Win.bat !
-------
-Now select ur email to send the email bomb.
-And select ur app password to email bomb.
-here u select the victim mail and u know how to use it !
-------------------------
-If u are on Linux do this :
+# **🔥 BY ALKA 🔥**
+
+**👾 GitHub:**  
+**[Alkaaaaaaaaaa](https://github.com/Alkaaaaaaaaaa)**  
+**🏆 THE ULTIMATE EMAIL BOMBER! 🏆**
+
+---
+
+## **How to Use on Windows**
+
+### 🔧 **Installation:**  
+If you're on Windows, start by executing the **Install-Win.bat** file below: 
+
+```
+Install-Win.bat
+```
+
+### 🚀 **Launching:**  
+Once AlkaBomber is installed, launch it using the **Launch-Win.bat** file like this: 
+
+```
+Launch-Win.bat
+```
+
+---
+
+### 📩 **After Launching, Follow These Steps:**
+
+1. **Select** your email account to send the email bomb.
+2. **Enter** your application password to initiate the bombing.
+3. **Choose** the victim's email address, and you’re all set! 😈
+
+---
+
+## **Instructions for Linux Users**
+
+To install and run AlkaBomber on Linux, follow these magical commands 🪄:
+
+```
 sudo apt update
 sudo apt install python3 python3-pip git -y
 git clone https://github.com/Alkaaaaaaaaaa/Alka-Bomber.git
 cd Alka-Bomber@1.6/
 pip3 install -r requirements.txt
-python3 Alka-Bomber.py 
-------------------------
+python3 Alka-Bomber.py
+```
 
-GO HERE FOR MORE ABOUT THIS PROJECT.
-PROJECT GITHUB : https://github.com/Alkaaaaaaaaaa/Alka-Bomber
-LOVE U GUYS THANKS TO USING MY TOOL !
+---
+
+## **For More Information**
+
+For additional details about this project, check out the GitHub page:  
+**[Alka-Bomber](https://github.com/Alkaaaaaaaaaa)**
+
+---
+
+**❤️ Thank you for using my tool! I love you all!**  
