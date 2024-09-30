@@ -3,7 +3,9 @@
 **👾 GitHub:**  
 **[Alkaaaaaaaaaa](https://github.com/Alkaaaaaaaaaa)**  
 **🏆 THE ULTIMATE EMAIL BOMBER! 🏆**
+
 ![App Screenshot](https://cdn.discordapp.com/attachments/1279507529977692221/1290336629671854161/AlkaBomber.jpg?ex=66fc1721&is=66fac5a1&hm=d604daa30c70161812daa17f7255e873329a12329f8b79db753494315a49d53c&)
+
 
 # **🔧 ! INSTALL PYTHON TO USE THIS SCRIPT ! 🔧**
 # **[Python-Download](https://www.python.org/downloads/)**
