@@ -1,1 +1,1 @@
-python Alka-Bomber.py
+python3 Alka-Bomber.py
