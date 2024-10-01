@@ -7,7 +7,7 @@
 **[Alkaaaaaaaaaa](https://github.com/Alkaaaaaaaaaa)**  
 **🏆 THE ULTIMATE EMAIL BOMBER! 🏆**
 
-# **🔧 ! INSTALL PYTHON TO USE THIS SCRIPT ! 🔧**
+# **🔧 ! INSTALL PYTHON (ADD TO PATH) TO USE THIS SCRIPT ! 🔧**
 # **[Python-Download](https://www.python.org/downloads/)**
 ---
 
