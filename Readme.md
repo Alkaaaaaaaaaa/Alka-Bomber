@@ -1,6 +1,6 @@
 # **👾AlkaBomber - 1.6**
 # **Website version :**
-[Alkaaaaaaaaaa](https://cdn.discordapp.com/attachments/1279507529977692221/1290635394332758038/Bomber.png?ex=66fd2d60&is=66fbdbe0&hm=1e005c096cf1f13af65b8774d80bffbc316a7145b79eec30bc6437d7e3c4a234&)
+![App Screenshot](https://cdn.discordapp.com/attachments/1279507529977692221/1290635394332758038/Bomber.png?ex=66fd2d60&is=66fbdbe0&hm=1e005c096cf1f13af65b8774d80bffbc316a7145b79eec30bc6437d7e3c4a234&)
 # **Console version :**
 ![App Screenshot](https://cdn.discordapp.com/attachments/1279507529977692221/1290336629671854161/AlkaBomber.jpg?ex=66fc1721&is=66fac5a1&hm=d604daa30c70161812daa17f7255e873329a12329f8b79db753494315a49d53c&)
 
