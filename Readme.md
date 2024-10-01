@@ -49,7 +49,7 @@ sudo apt update
 sudo apt install python3 python3-pip git -y
 git clone https://github.com/Alkaaaaaaaaaa/Alka-Bomber.git
 cd Alka-Bomber/
-python3 Alka-Bomber.py
+python3 Launch-Linux.sh
 ```
 If the installations don't work on Linux, use this 🪄:
 Or try to launch it manually.
@@ -58,7 +58,7 @@ sudo apt update
 sudo apt install python python-pip git -y
 git clone https://github.com/Alkaaaaaaaaaa/Alka-Bomber.git
 cd Alka-Bomber/
-python Alka-Bomber.py
+python Launch-Linux.sh
 ```
 
 ---
