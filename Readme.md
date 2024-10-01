@@ -55,24 +55,6 @@ try to launch it manually.
 **AlkaBomber in a console to launch the tool.**
 ---
 
-# **Html-AlkaBomber launch**
-
-**On Windows use this for launch the Html file :**
-
-```
-Go in the folder : Alka-Bomber.
-Click in the AlkaBomber.html.
-Now u can use the tool in ur browser!
-```
-
-**On Linux use this for launch the Html file :**
-
-```
-Go in the folder : Alka-Bomber.
-Click in the AlkaBomber.html.
-Now u can use the tool in ur browser!
-```
-
 ## **For More Information**
 
 For additional details about this project, check out the GitHub page:  
