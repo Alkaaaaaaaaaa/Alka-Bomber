@@ -45,8 +45,14 @@ cd Alka-Bomber/
 chmod +x Launch-Linux.sh
 ./Launch-Linux.sh
 ```
+
 If the installations don't work on Linux,
 try to launch it manually.
+
+# Linux new tool :
+
+**On Linux u can now type:
+AlkaBomber in a console to launch the tool.**
 ---
 
 # **Html-AlkaBomber launch**
