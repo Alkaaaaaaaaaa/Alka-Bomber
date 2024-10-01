@@ -52,17 +52,8 @@ cd Alka-Bomber/
 chmod +x Launch-Linux.sh
 ./Launch-Linux.sh
 ```
-If the installations don't work on Linux, use this 🪄:
-Or try to launch it manually.
-```
-sudo apt update
-sudo apt install python python-pip git -y
-git clone https://github.com/Alkaaaaaaaaaa/Alka-Bomber.git
-cd Alka-Bomber/
-chmod +x Launch-Linux.sh
-./Launch-Linux.sh
-```
-
+If the installations don't work on Linux,
+try to launch it manually.
 ---
 
 ## **For More Information**
