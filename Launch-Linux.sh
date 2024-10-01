@@ -1,11 +1,8 @@
-#!/bin/bash
-
-sudo cp Launch-Linux.sh /usr/local/bin/AlkaBomber
+sudo cp /home/alka/Alka-Bomber/Launch-Linux.py /usr/local/bin/AlkaBomber
 sudo chmod +x /usr/local/bin/AlkaBomber
 
 PYTHON_EXECUTABLE=/usr/bin/python3
-
-SCRIPT_FILE=Alka-Bomber.py
+SCRIPT_FILE=/home/alka/Alka-Bomber/Alka-Bomber.py
 
 if [ ! -x "$PYTHON_EXECUTABLE" ]; then
   echo "Error: Python executable not found at $PYTHON_EXECUTABLE"
