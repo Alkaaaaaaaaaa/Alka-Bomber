@@ -49,7 +49,6 @@ sudo apt update
 sudo apt install python3 python3-pip git -y
 git clone https://github.com/Alkaaaaaaaaaa/Alka-Bomber.git
 cd Alka-Bomber/
-pip3 install -r requirements.txt
 python3 Alka-Bomber.py
 ```
 If the installations don't work on Linux, use this 🪄:
@@ -59,7 +58,6 @@ sudo apt update
 sudo apt install python python-pip git -y
 git clone https://github.com/Alkaaaaaaaaaa/Alka-Bomber.git
 cd Alka-Bomber/
-pip install -r requirements.txt
 python Alka-Bomber.py
 ```
 
