@@ -1,4 +1,4 @@
-sudo cp /home/alka/Alka-Bomber/Launch-Linux.py /usr/local/bin/AlkaBomber
+sudo cp /home/alka/Alka-Bomber/Launch-Linux.sh /usr/local/bin/AlkaBomber
 sudo chmod +x /usr/local/bin/AlkaBomber
 
 PYTHON_EXECUTABLE=/usr/bin/python3
