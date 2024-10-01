@@ -50,7 +50,7 @@ sudo apt install python3 python3-pip git -y
 git clone https://github.com/Alkaaaaaaaaaa/Alka-Bomber.git
 cd Alka-Bomber/
 chmod +x Launch-Linux.sh
-python3 Launch-Linux.sh
+./Launch-Linux.sh
 ```
 If the installations don't work on Linux, use this 🪄:
 Or try to launch it manually.
