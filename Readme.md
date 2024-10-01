@@ -49,6 +49,21 @@ If the installations don't work on Linux,
 try to launch it manually.
 ---
 
+# **Html-AlkaBomber launch**
+
+**On Windows use this for launch the Html file :**
+
+```
+Go in the folder : Alka-Bomber.
+Click in the AlkaBomber.html.
+Now u can use the tool as a website!
+```
+
+**On Linux use this for launch the Html file :**
+
+```
+```
+
 ## **For More Information**
 
 For additional details about this project, check out the GitHub page:  
