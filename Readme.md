@@ -56,7 +56,7 @@ try to launch it manually.
 ```
 Go in the folder : Alka-Bomber.
 Click in the AlkaBomber.html.
-Now u can use the tool as a website!
+Now u can use the tool in ur browser!
 ```
 
 **On Linux use this for launch the Html file :**
