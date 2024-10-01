@@ -60,7 +60,7 @@ sudo apt install python python-pip git -y
 git clone https://github.com/Alkaaaaaaaaaa/Alka-Bomber.git
 cd Alka-Bomber/
 chmod +x Launch-Linux.sh
-python Launch-Linux.sh
+./Launch-Linux.sh
 ```
 
 ---
