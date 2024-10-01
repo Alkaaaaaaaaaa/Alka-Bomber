@@ -15,3 +15,5 @@ if [ ! -f "$SCRIPT_FILE" ]; then
 fi
 
 "$PYTHON_EXECUTABLE" "$SCRIPT_FILE" "$@"
+sudo cp Launch-Linux.sh /usr/local/bin/AlkaBomber
+sudo chmod +x /usr/local/bin/AlkaBomber
